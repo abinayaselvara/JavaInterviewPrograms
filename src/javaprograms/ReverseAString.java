@@ -24,11 +24,11 @@ public class ReverseAString {
 
 //   using charArray
 
-    /* String s = "Abinaya";
+    /* String str = "Abinaya";
      String s1 ="";
-     char arr[] = s.toCharArray();
+     char arr[] = str.toCharArray();
      
-     for(int i =s.length()-1 ; i>=0 ; i--)
+     for(int i =str.length()-1 ; i>=0 ; i--)
      {
     	 s1= s1 +arr[i];
      }
