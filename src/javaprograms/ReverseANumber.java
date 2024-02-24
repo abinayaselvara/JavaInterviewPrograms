@@ -38,14 +38,16 @@ public class ReverseANumber {
 		
 // Using StringBuilder
 		
-		int a = 1245;
+	/*	int a = 1245;
         StringBuilder sb = new StringBuilder();
         StringBuilder append = sb.append(a);
         StringBuilder rev = append.reverse();
 
          System.err.println(rev);
 	}}
-
+*/
+		
+	}}
 
 
 
