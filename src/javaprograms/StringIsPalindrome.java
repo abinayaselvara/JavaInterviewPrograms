@@ -4,7 +4,7 @@ public class StringIsPalindrome {
 	
 	public static void main(String[] args) {
 		
-		String a ="madam";
+	/*	String a ="madam";
 		String rev ="";
 		//String  originalvalue = a;
 		
@@ -19,7 +19,7 @@ public class StringIsPalindrome {
 		else
 		{
 			System.out.println("not a plindrome");
-		}
+		}*/
 		
 	}
 
