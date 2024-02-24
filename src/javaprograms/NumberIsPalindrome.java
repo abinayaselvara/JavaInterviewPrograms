@@ -6,7 +6,7 @@ public class NumberIsPalindrome {
 	
 	
 	public static void main(String[] args) {
-		
+		//getting input from user
  Scanner sc = new Scanner(System.in);
  System.out.println("Enter a Number");
  int a = sc.nextInt();
