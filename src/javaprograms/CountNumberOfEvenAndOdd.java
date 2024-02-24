@@ -3,7 +3,7 @@ package javaprograms;
 public class CountNumberOfEvenAndOdd {
 
 	public static void main(String[] args) {
-
+// checking each digit in number is even or add
 int a= 123456;
 int even =0;
 int odd =0;
